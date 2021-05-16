@@ -1,5 +1,5 @@
 {
-    "name": "buonzz/composer-library-template",
+    "name": "kwasett/laravel-common",
     "description": "Boostraping laravel controllers",
     "keywords": ["laravel", "controller", "service"],
     "license": "MIT",
