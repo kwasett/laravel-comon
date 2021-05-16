@@ -1,0 +1,24 @@
+{
+    "name": "buonzz/composer-library-template",
+    "description": "Boostraping laravel controllers",
+    "keywords": ["laravel", "controller", "service"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seth Kwakwa",
+            "email": "kwasett@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kwasett\\LaravelCommon\\": "src/"
+        }
+    }
+}
